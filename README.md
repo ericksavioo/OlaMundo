@@ -1,3 +1,4 @@
 # Óla Mundo
- primeiro repositorio git giyhub
-REPOSITORIO DURANTe AULA AO VIVO
+ primeiro repositorio de git e github
+REPOSITORIO DURANTE AULA AO VIVO
+add mais informacao para testes
